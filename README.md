@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co.com/J3C8k0f/3d-render-little-boy-with-laptop-tools.jpg" width="50%" alt="" />
 </div>
 
-<h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
+<h1 align="center">✅ My💥💥💥BEST❤❤❤❤ SKILLS</h1>
 <p align="center">
 <div align="center">
   <table>
