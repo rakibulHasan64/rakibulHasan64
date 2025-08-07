@@ -6,12 +6,16 @@
 
 <div align="center" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.5; color: #444;">
   <p>
-    I am a passionate Web Developer who loves building modern web applications. Creating user-friendly, responsive, and design-focused websites is my primary goal.
+    As a MERN Stack Developer with 1.5 years of experience, I build dynamic, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js.
   </p>
   <p>
-    Currently, I am working with React, Next.js, and Node.js, and continuously learning new technologies like MongoDB and TypeScript.
+    I specialize in designing clean, modular frontend interfaces with React and Tailwind CSS, and developing robust backend APIs with Node.js and Express.js.
+  </p>
+  <p>
+    My expertise includes creating RESTful APIs, managing data with MongoDB and Mongoose, and implementing authentication and authorization using JWT and Firebase.
   </p>
 </div>
+
 
 <h2 align="center" style="margin-top: 40px;">✅ My 💥 BEST SKILLS</h2>
 
