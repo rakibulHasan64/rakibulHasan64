@@ -4,6 +4,7 @@
 
 <h1 align="center" style="margin-top: 20px;">Rakib Hasan - Web Developer (MERN Stack)</h1>
 
+<h2 align="center" style="margin-top: 40px;">About Me</h2>
 <div align="center" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.5; color: #444;">
   <p>
     As a MERN Stack Developer with 1.5 years of experience, I build dynamic, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js.
@@ -15,6 +16,14 @@
     My expertise includes creating RESTful APIs, managing data with MongoDB and Mongoose, and implementing authentication and authorization using JWT and Firebase.
   </p>
 </div>
+
+<h2 align="center" style="margin-top: 40px;">Current Activity</h2>
+<div align="center" style="max-width: 700px; margin: auto; font-size: 16px; line-height: 1.5; color: #444;">
+  <p>
+    Currently, I am enhancing my skills in TypeScript and exploring advanced backend technologies like FastAPI. I am also focused on improving application performance and security.
+  </p>
+</div>
+
 
 
 <h2 align="center" style="margin-top: 40px;">✅ My 💥 BEST SKILLS</h2>
