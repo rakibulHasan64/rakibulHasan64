@@ -105,22 +105,20 @@
 <br />
 <br />
 
-
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> GitHub Stats
+<h1 style="display: flex; align-items: center; gap: 10px; justify-content: center; font-family: 'Fira Code', monospace; color: #F78518;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" />
+  GitHub Stats
 </h1>
 
-
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img height="190" alt="total" src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" />
-  <img height="190" alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 25px; margin: 20px 0;">
+  <img height="190" alt="total" src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+  <img height="190" alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png" alt="divider" />
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/divider1.png" alt="divider" style="width: 60%; max-width: 650px;" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 40px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78518&multiline=true&random=false&width=650&height=100&lines=Don't+forget+to+star+the+repositories+you+like;and+follow+me+for+more+updates." alt="Typing SVG" />
 </div>
