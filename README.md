@@ -84,15 +84,9 @@
 
 ---
 
-<h2 align="center" style="display: flex; align-items: center; gap: 10px; justify-content: center; font-family: 'Fira Code', monospace; color: #F78518; margin-top: 40px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" />
-  GitHub Stats
-</h2>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 25px; margin: 20px 0;">
-  <img height="190" alt="total" src="https://github-readme-stats.vercel.app/api?username=kentaurse&show_icons=true&theme=gotham" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
-  <img height="190" alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentaurse&layout=compact&theme=gotham" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
-</div>
+<p align="center">
+  <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+</p>
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://raw.githubusercontent.com/kentaurse/kentaurse/main/assests/images/divider1.png" alt="divider" style="width: 60%; max-width: 650px;" />
