@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/J3C8k0f/3d-render-little-boy-with-laptop-tools.jpg" width="100%" alt="Banner Image" style="border-radius: 10px;" />
+  <img src="https://i.ibb.co.com/mVp2pBnZ/download.png" width="100%" alt="Banner Image" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center" style="margin-top: 20px;">Rakib Hasan - Web Developer (MERN Stack)</h1>
