@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.ibb.co.com/J3C8k0f/3d-render-little-boy-with-laptop-tools.jpg" width="50%" alt="" />
+  <img src="https://i.ibb.co.com/J3C8k0f/3d-render-little-boy-with-laptop-tools.jpg" width="50%" hight="40%" alt="" />
 </div>
 
 <h1 align="center">✅ My💥💥💥BEST❤❤❤❤ SKILLS</h1>
